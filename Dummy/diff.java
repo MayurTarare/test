@@ -4,7 +4,7 @@ public class diff {
         int c = 10;
         int d = 20;
 
-        System.out.println(d-c);
+        System.out.println("Difference is " + (d-c));
     }
     
 }
